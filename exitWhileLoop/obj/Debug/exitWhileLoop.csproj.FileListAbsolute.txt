@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\exitWhileLoop\exitWhileLoop\bin\Debug\exitWhileLoop.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\exitWhileLoop\exitWhileLoop\bin\Debug\exitWhileLoop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\exitWhileLoop\exitWhileLoop\bin\Debug\exitWhileLoop.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\exitWhileLoop\exitWhileLoop\obj\Debug\exitWhileLoop.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\exitWhileLoop\exitWhileLoop\obj\Debug\exitWhileLoop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\exitWhileLoop\exitWhileLoop\obj\Debug\exitWhileLoop.pdb
